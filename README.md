@@ -11,3 +11,6 @@
 
 - git push
   - git hubに変更した内容をアップロード
+
+- git pull
+  - gitの情報を自分のパソコンに反映する
